@@ -1,0 +1,3 @@
+include ':AllPlatform'
+include ':app'
+rootProject.name = "multiplatfrom"
